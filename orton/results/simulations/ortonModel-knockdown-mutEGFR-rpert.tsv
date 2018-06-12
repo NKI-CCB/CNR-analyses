@@ -1,0 +1,13 @@
+	boundEGFReceptorKnockdown	SosActiveKnockdown	RasActiveKnockdown	Raf1ActiveKnockdown	MekActiveKnockdown	ErkActiveKnockdown	P90RskActiveKnockdown	PI3KActiveKnockdown	AktActiveKnockdown	C3GActiveKnockdown	Rap1ActiveKnockdown	bRafActiveKnockdown
+boundEGFReceptor	-0.6666666666666666	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+SosActive	0.0	-0.6619559133017707	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RasActive	0.0	0.0	-0.21097960936643775	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Raf1Active	0.0	0.0	0.0	-0.296692161810949	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+MekActive	0.0	0.0	0.0	0.0	-0.6924728144121916	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ErkActive	0.0	0.0	0.0	0.0	0.0	-0.6647407707216729	0.0	0.0	0.0	0.0	0.0	0.0
+P90RskActive	0.0	0.0	0.0	0.0	0.0	0.0	-0.660806046327208	0.0	0.0	0.0	0.0	0.0
+PI3KActive	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-0.6666663289672742	0.0	0.0	0.0	0.0
+AktActive	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-0.6576345515190621	0.0	0.0	0.0
+C3GActive	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-0.6662601009825594	0.0	0.0
+Rap1Active	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-0.2737757926135079	0.0
+bRafActive	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-0.7891102874475677

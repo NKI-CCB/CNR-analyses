@@ -1,0 +1,13 @@
+	boundEGFReceptor	SosActive	RasActive	Raf1Active	MekActive	ErkActive	P90RskActive	PI3KActive	AktActive	C3GActive	Rap1Active	bRafActive
+boundEGFReceptor	0	0	0	0	0	0	0	0	0	0	0	0
+SosActive	1	0	0	0	0	0	1	0	0	0	0	0
+RasActive	0	1	0	0	0	0	0	0	0	0	0	0
+Raf1Active	0	0	1	0	0	0	0	0	1	0	0	0
+MekActive	0	0	0	1	0	0	0	0	0	0	0	1
+ErkActive	0	0	0	0	1	0	0	0	0	0	0	0
+P90RskActive	0	0	0	0	0	1	0	0	0	0	0	0
+PI3KActive	1	0	1	0	0	0	0	0	0	0	0	0
+AktActive	0	0	0	0	0	0	0	1	0	0	0	0
+C3GActive	1	0	0	0	0	0	0	0	0	0	0	0
+Rap1Active	0	0	0	0	0	0	0	0	0	1	0	0
+bRafActive	0	0	1	0	0	0	0	0	0	0	1	0
