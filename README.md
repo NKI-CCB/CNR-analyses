@@ -1,7 +1,7 @@
 # Comparative network reconstruction analyses
 
 This repository contains the code used to perform the analyses in our publication:
-"Comparative Network Reconstruction using Mixed Integer Programming", Bosdriesz et al., 2018, https://doi.org/10.1101/243709.
+"Comparative Network Reconstruction using Mixed Integer Programming", Bosdriesz et al., Bioinformatics (2018) https://doi.org/10.1093/bioinformatics/bty616
 
 The code for the CNR method has it's own repository: https://github.com/NKI-CCB/cnr
 
