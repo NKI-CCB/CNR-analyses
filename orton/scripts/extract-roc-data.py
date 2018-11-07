@@ -1,4 +1,4 @@
-from mypyutils import utils
+import utils
 import cplex
 import pickle
 import cnr

@@ -8,7 +8,7 @@ import pickle
 import cnr
 import numpy as np
 import pandas as pd
-from mypyutils import utils
+import utils
 
 # Constants
 random.seed(29121982)
